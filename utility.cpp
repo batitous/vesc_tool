@@ -21,6 +21,7 @@
 #include <cmath>
 #include <QProgressDialog>
 #include <QEventLoop>
+#include <QFile>
 #include <QNetworkAccessManager>
 #include <QUrl>
 #include <QNetworkRequest>
